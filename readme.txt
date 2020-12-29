@@ -3,7 +3,7 @@ fdsfsdfds
 fsd
 fsd
 f 1122
-poll scm test
+poll scm test 22
 # ========================NEXUS==============================
 
 <distributionManagement>
